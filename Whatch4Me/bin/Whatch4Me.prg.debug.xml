@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <pcToLineNum>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="3" lineNum="37" pc="268435456" symbol="initialize"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="3" lineNum="38" pc="268435460" symbol="initialize"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="3" lineNum="40" pc="268435478" symbol="initialize"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="3" lineNum="41" pc="268435498" symbol="initialize"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="3" lineNum="44" pc="268435518" symbol="initialize"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="3" lineNum="46" pc="268435551" symbol="initialize"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="3" lineNum="47" pc="268435562" symbol="initialize"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="3" lineNum="48" pc="268435582" symbol="initialize"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="3" lineNum="51" pc="268435605" symbol="initialize"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="3" lineNum="66" pc="268436135" symbol="initialize"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="3" lineNum="76" pc="268436450" symbol="initialize"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="3" lineNum="77" pc="268436493" symbol="initialize"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="4" lineNum="91" pc="268436537" symbol="onLayout"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="4" lineNum="93" pc="268436541" symbol="onLayout"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="4" lineNum="94" pc="268436560" symbol="onLayout"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="5" lineNum="104" pc="268436580" symbol="onShow"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="6" lineNum="111" pc="268436585" symbol="onUpdate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="6" lineNum="116" pc="268436589" symbol="onUpdate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="6" lineNum="117" pc="268436617" symbol="onUpdate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="6" lineNum="120" pc="268436661" symbol="onUpdate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="6" lineNum="127" pc="268436675" symbol="onUpdate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="6" lineNum="128" pc="268436689" symbol="onUpdate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="6" lineNum="129" pc="268436703" symbol="onUpdate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="6" lineNum="130" pc="268436717" symbol="onUpdate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="6" lineNum="131" pc="268436731" symbol="onUpdate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="6" lineNum="133" pc="268436745" symbol="onUpdate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="6" lineNum="136" pc="268436759" symbol="onUpdate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="6" lineNum="138" pc="268436793" symbol="onUpdate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="6" lineNum="146" pc="268436813" symbol="onUpdate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="7" lineNum="155" pc="268436828" symbol="onHide"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="8" lineNum="159" pc="268436833" symbol="onExitSleep"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="8" lineNum="160" pc="268436837" symbol="onExitSleep"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="8" lineNum="161" pc="268436847" symbol="onExitSleep"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="9" lineNum="166" pc="268436866" symbol="onEnterSleep"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="9" lineNum="167" pc="268436870" symbol="onEnterSleep"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="9" lineNum="168" pc="268436880" symbol="onEnterSleep"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="10" lineNum="171" pc="268436899" symbol="drawLowPowerMode"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="10" lineNum="172" pc="268436903" symbol="drawLowPowerMode"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="10" lineNum="173" pc="268436931" symbol="drawLowPowerMode"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="10" lineNum="174" pc="268436975" symbol="drawLowPowerMode"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="10" lineNum="176" pc="268437007" symbol="drawLowPowerMode"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="10" lineNum="177" pc="268437026" symbol="drawLowPowerMode"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="10" lineNum="179" pc="268437065" symbol="drawLowPowerMode"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="10" lineNum="183" pc="268437125" symbol="drawLowPowerMode"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="10" lineNum="184" pc="268437150" symbol="drawLowPowerMode"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="10" lineNum="185" pc="268437175" symbol="drawLowPowerMode"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="10" lineNum="190" pc="268437197" symbol="drawLowPowerMode"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="11" lineNum="199" pc="268437282" symbol="drawDaysToSince"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="11" lineNum="203" pc="268437286" symbol="drawDaysToSince"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="11" lineNum="204" pc="268437338" symbol="drawDaysToSince"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="11" lineNum="211" pc="268437397" symbol="drawDaysToSince"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="11" lineNum="212" pc="268437440" symbol="drawDaysToSince"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="11" lineNum="214" pc="268437459" symbol="drawDaysToSince"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="11" lineNum="221" pc="268437475" symbol="drawDaysToSince"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="11" lineNum="222" pc="268437504" symbol="drawDaysToSince"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="11" lineNum="224" pc="268437511" symbol="drawDaysToSince"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="11" lineNum="225" pc="268437522" symbol="drawDaysToSince"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="11" lineNum="226" pc="268437533" symbol="drawDaysToSince"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="11" lineNum="229" pc="268437546" symbol="drawDaysToSince"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="11" lineNum="231" pc="268437557" symbol="drawDaysToSince"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="11" lineNum="233" pc="268437582" symbol="drawDaysToSince"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="11" lineNum="235" pc="268437593" symbol="drawDaysToSince"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="11" lineNum="239" pc="268437618" symbol="drawDaysToSince"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="11" lineNum="241" pc="268437625" symbol="drawDaysToSince"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="12" lineNum="264" pc="268437725" symbol="drawHeart"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="12" lineNum="267" pc="268437729" symbol="drawHeart"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="12" lineNum="269" pc="268437753" symbol="drawHeart"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="12" lineNum="270" pc="268437772" symbol="drawHeart"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="12" lineNum="273" pc="268437783" symbol="drawHeart"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="12" lineNum="274" pc="268437808" symbol="drawHeart"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="12" lineNum="276" pc="268437815" symbol="drawHeart"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="12" lineNum="277" pc="268437839" symbol="drawHeart"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="12" lineNum="278" pc="268437852" symbol="drawHeart"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="12" lineNum="280" pc="268437886" symbol="drawHeart"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="12" lineNum="283" pc="268437902" symbol="drawHeart"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="12" lineNum="287" pc="268437909" symbol="drawHeart"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="12" lineNum="288" pc="268437949" symbol="drawHeart"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="12" lineNum="289" pc="268437980" symbol="drawHeart"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="12" lineNum="291" pc="268438020" symbol="drawHeart"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="12" lineNum="292" pc="268438210" symbol="drawHeart"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="12" lineNum="293" pc="268438254" symbol="drawHeart"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="12" lineNum="294" pc="268438298" symbol="drawHeart"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="12" lineNum="295" pc="268438326" symbol="drawHeart"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="12" lineNum="296" pc="268438368" symbol="drawHeart"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="12" lineNum="297" pc="268438410" symbol="drawHeart"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="13" lineNum="305" pc="268438525" symbol="drawBluetooth"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="14" lineNum="325" pc="268438530" symbol="drawClock"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="14" lineNum="326" pc="268438534" symbol="drawClock"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="14" lineNum="328" pc="268438566" symbol="drawClock"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="14" lineNum="333" pc="268438585" symbol="drawClock"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="14" lineNum="335" pc="268438645" symbol="drawClock"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="14" lineNum="337" pc="268438685" symbol="drawClock"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="15" lineNum="341" pc="268438749" symbol="drawBattery"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="15" lineNum="343" pc="268438753" symbol="drawBattery"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="15" lineNum="344" pc="268438770" symbol="drawBattery"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="15" lineNum="345" pc="268438780" symbol="drawBattery"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="15" lineNum="347" pc="268438823" symbol="drawBattery"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="15" lineNum="348" pc="268438876" symbol="drawBattery"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="15" lineNum="351" pc="268438929" symbol="drawBattery"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="15" lineNum="352" pc="268438969" symbol="drawBattery"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="15" lineNum="356" pc="268439027" symbol="drawBattery"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="15" lineNum="362" pc="268439055" symbol="drawBattery"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="15" lineNum="363" pc="268439147" symbol="drawBattery"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="15" lineNum="365" pc="268439251" symbol="drawBattery"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="15" lineNum="367" pc="268439283" symbol="drawBattery"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="15" lineNum="368" pc="268439294" symbol="drawBattery"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="15" lineNum="370" pc="268439329" symbol="drawBattery"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="15" lineNum="371" pc="268439340" symbol="drawBattery"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="15" lineNum="374" pc="268439375" symbol="drawBattery"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="15" lineNum="387" pc="268439443" symbol="drawBattery"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="15" lineNum="388" pc="268439471" symbol="drawBattery"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="16" lineNum="394" pc="268439582" symbol="drawDate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="16" lineNum="396" pc="268439586" symbol="drawDate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="16" lineNum="398" pc="268439618" symbol="drawDate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="16" lineNum="400" pc="268439662" symbol="drawDate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="16" lineNum="401" pc="268439687" symbol="drawDate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="16" lineNum="402" pc="268439712" symbol="drawDate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="16" lineNum="404" pc="268439722" symbol="drawDate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="16" lineNum="406" pc="268439783" symbol="drawDate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="16" lineNum="408" pc="268439823" symbol="drawDate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="16" lineNum="412" pc="268439877" symbol="drawDate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="16" lineNum="414" pc="268439909" symbol="drawDate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="16" lineNum="415" pc="268440002" symbol="drawDate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="16" lineNum="416" pc="268440044" symbol="drawDate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="16" lineNum="417" pc="268440084" symbol="drawDate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="16" lineNum="418" pc="268440101" symbol="drawDate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="16" lineNum="419" pc="268440112" symbol="drawDate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="16" lineNum="421" pc="268440133" symbol="drawDate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="16" lineNum="430" pc="268440151" symbol="drawDate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="435" pc="268440180" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="437" pc="268440184" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="438" pc="268440203" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="439" pc="268440210" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="440" pc="268440217" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="441" pc="268440224" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="443" pc="268440231" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="444" pc="268440248" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="445" pc="268440258" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="446" pc="268440268" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="452" pc="268440275" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="454" pc="268440282" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="455" pc="268440306" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="455" pc="268440323" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="456" pc="268440339" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="456" pc="268440356" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="457" pc="268440372" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="457" pc="268440389" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="458" pc="268440405" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="459" pc="268440421" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="459" pc="268440441" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="460" pc="268440454" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="462" pc="268440480" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="463" pc="268440491" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="469" pc="268440514" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="471" pc="268440566" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="472" pc="268440606" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="473" pc="268440613" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="474" pc="268440620" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="479" pc="268440620" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="484" pc="268440642" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="486" pc="268440676" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="487" pc="268440697" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="488" pc="268440756" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="489" pc="268440777" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="490" pc="268440792" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="491" pc="268440824" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="492" pc="268440858" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="496" pc="268440883" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="498" pc="268440894" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="502" pc="268440901" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="503" pc="268440931" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="504" pc="268440946" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="509" pc="268440968" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="510" pc="268440987" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="513" pc="268440991" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="514" pc="268441017" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="519" pc="268441052" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="522" pc="268441056" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="523" pc="268441082" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="524" pc="268441116" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="533" pc="268441148" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="534" pc="268441156" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="536" pc="268441163" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="536" pc="268441171" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="538" pc="268441178" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="539" pc="268441192" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="545" pc="268441205" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="547" pc="268441216" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="548" pc="268441226" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="553" pc="268441236" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="555" pc="268441247" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="566" pc="268441266" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="567" pc="268441306" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="568" pc="268441346" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="569" pc="268441386" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="570" pc="268441426" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="571" pc="268441433" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="574" pc="268441473" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="578" pc="268441497" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="580" pc="268441522" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="582" pc="268441581" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="584" pc="268441646" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="587" pc="268441745" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="588" pc="268441777" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="589" pc="268441805" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="591" pc="268441830" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="594" pc="268441922" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="596" pc="268441954" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="608" pc="268442054" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="609" pc="268442079" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="611" pc="268442093" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="615" pc="268442121" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="617" pc="268442177" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="619" pc="268442257" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="621" pc="268442350" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="622" pc="268442427" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="624" pc="268442441" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="631" pc="268442522" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="634" pc="268442535" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="636" pc="268442575" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="637" pc="268442611" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="638" pc="268442656" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="641" pc="268442710" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="644" pc="268442742" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="646" pc="268442781" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="649" pc="268442880" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="653" pc="268442970" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="656" pc="268443006" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="661" pc="268443045" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="662" pc="268443088" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="663" pc="268443105" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="664" pc="268443218" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="665" pc="268443370" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="669" pc="268443522" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="671" pc="268443561" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="672" pc="268443604" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="673" pc="268443621" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="674" pc="268443711" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="17" lineNum="675" pc="268443728" symbol="drawSteps"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="18" lineNum="682" pc="268443899" symbol="drawSunEvents"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="18" lineNum="685" pc="268443903" symbol="drawSunEvents"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="18" lineNum="686" pc="268443937" symbol="drawSunEvents"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="18" lineNum="687" pc="268443971" symbol="drawSunEvents"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="18" lineNum="688" pc="268443974" symbol="drawSunEvents"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="18" lineNum="689" pc="268443977" symbol="drawSunEvents"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="18" lineNum="690" pc="268444010" symbol="drawSunEvents"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="18" lineNum="696" pc="268444043" symbol="drawSunEvents"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="18" lineNum="697" pc="268444056" symbol="drawSunEvents"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="18" lineNum="700" pc="268444069" symbol="drawSunEvents"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="18" lineNum="701" pc="268444113" symbol="drawSunEvents"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="18" lineNum="702" pc="268444144" symbol="drawSunEvents"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="18" lineNum="704" pc="268444164" symbol="drawSunEvents"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="18" lineNum="705" pc="268444198" symbol="drawSunEvents"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="18" lineNum="706" pc="268444226" symbol="drawSunEvents"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="18" lineNum="707" pc="268444260" symbol="drawSunEvents"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="18" lineNum="708" pc="268444288" symbol="drawSunEvents"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="18" lineNum="710" pc="268444298" symbol="drawSunEvents"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="18" lineNum="711" pc="268444305" symbol="drawSunEvents"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="18" lineNum="712" pc="268444312" symbol="drawSunEvents"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="18" lineNum="713" pc="268444323" symbol="drawSunEvents"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="18" lineNum="714" pc="268444333" symbol="drawSunEvents"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="18" lineNum="715" pc="268444344" symbol="drawSunEvents"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="18" lineNum="722" pc="268444354" symbol="drawSunEvents"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="18" lineNum="725" pc="268444390" symbol="drawSunEvents"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="18" lineNum="727" pc="268444516" symbol="drawSunEvents"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="18" lineNum="728" pc="268444552" symbol="drawSunEvents"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="18" lineNum="729" pc="268444603" symbol="drawSunEvents"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="19" lineNum="733" pc="268444739" symbol="GetHeartRate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="19" lineNum="734" pc="268444743" symbol="GetHeartRate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="19" lineNum="735" pc="268444750" symbol="GetHeartRate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="19" lineNum="736" pc="268444773" symbol="GetHeartRate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="19" lineNum="736" pc="268444780" symbol="GetHeartRate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="19" lineNum="738" pc="268444796" symbol="GetHeartRate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="19" lineNum="739" pc="268444820" symbol="GetHeartRate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="19" lineNum="740" pc="268444839" symbol="GetHeartRate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="19" lineNum="740" pc="268444867" symbol="GetHeartRate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeView.mc" id="19" lineNum="742" pc="268444883" symbol="GetHeartRate"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeApp.mc" id="21" lineNum="5" pc="268444887" symbol="initialize"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeApp.mc" id="21" lineNum="6" pc="268444891" symbol="initialize"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeApp.mc" id="22" lineNum="11" pc="268444910" symbol="onStart"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeApp.mc" id="23" lineNum="15" pc="268444915" symbol="onStop"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeApp.mc" id="24" lineNum="19" pc="268444920" symbol="getInitialView"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Whatch4MeApp.mc" id="24" lineNum="20" pc="268444924" symbol="getInitialView"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="26" lineNum="7" pc="268444962" symbol="getCurrentTime"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="26" lineNum="8" pc="268444966" symbol="getCurrentTime"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="26" lineNum="9" pc="268444983" symbol="getCurrentTime"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="26" lineNum="11" pc="268444993" symbol="getCurrentTime"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="26" lineNum="12" pc="268445018" symbol="getCurrentTime"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="26" lineNum="13" pc="268445029" symbol="getCurrentTime"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="26" lineNum="17" pc="268445045" symbol="getCurrentTime"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="26" lineNum="18" pc="268445069" symbol="getCurrentTime"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="26" lineNum="19" pc="268445085" symbol="getCurrentTime"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="26" lineNum="21" pc="268445115" symbol="getCurrentTime"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="50" pc="268445125" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="54" pc="268445137" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="55" pc="268445150" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="59" pc="268445163" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="67" pc="268445188" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="68" pc="268445248" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="69" pc="268445272" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="72" pc="268445296" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="73" pc="268445333" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="74" pc="268445352" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="75" pc="268445377" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="84" pc="268445510" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="88" pc="268445534" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="92" pc="268445551" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="93" pc="268445575" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="94" pc="268445594" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="95" pc="268445601" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="96" pc="268445620" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="100" pc="268445627" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="106" pc="268445733" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="107" pc="268445756" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="108" pc="268445775" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="109" pc="268445782" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="110" pc="268445801" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="114" pc="268445808" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="120" pc="268445890" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="124" pc="268445955" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="129" pc="268446068" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="130" pc="268446079" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="134" pc="268446111" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="135" pc="268446122" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="139" pc="268446154" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="140" pc="268446176" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="141" pc="268446189" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="142" pc="268446202" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="143" pc="268446209" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="145" pc="268446216" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="29" lineNum="146" pc="268446257" symbol="getSunTimes"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="30" lineNum="152" pc="268446303" symbol="WidthofCircle"/>
+        <entry filename="D:\\Personal Local\\WatchFace\\WHatch4Me - Master\\WHatch4Me\\source\\Util.mc" id="30" lineNum="154" pc="268446315" symbol="WidthofCircle"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry field="true" id="33" symbol="ManualLat"/>
+        <entry field="true" id="19" symbol="OverRideStreakDate"/>
+        <entry id="10" object="true" symbol="WHatch4MeView"/>
+        <entry id="12" object="true" symbol="Util"/>
+        <entry field="true" id="30" symbol="ManualLong"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="68" method="true" symbol="drawBattery"/>
+        <entry field="true" id="60" symbol="dateFormat"/>
+        <entry field="true" id="56" symbol="Green"/>
+        <entry field="true" id="34" symbol="ManualLatError"/>
+        <entry id="8390424" module="true" symbol="Storage"/>
+        <entry field="true" id="50" symbol="White"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="8388645" module="true" object="true" symbol="Time"/>
+        <entry id="69" method="true" symbol="drawDate"/>
+        <entry field="true" id="22" symbol="DisplayToSinceDate"/>
+        <entry field="true" id="42" symbol="Mon9"/>
+        <entry field="true" id="41" symbol="Mon8"/>
+        <entry field="true" id="47" symbol="Mon7"/>
+        <entry field="true" id="46" symbol="Mon6"/>
+        <entry field="true" id="45" symbol="Mon5"/>
+        <entry field="true" id="44" symbol="Mon4"/>
+        <entry field="true" id="38" symbol="Mon3"/>
+        <entry field="true" id="37" symbol="Mon2"/>
+        <entry field="true" id="36" symbol="Mon1"/>
+        <entry field="true" id="35" symbol="Mon0"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry field="true" id="20" symbol="Black"/>
+        <entry field="true" id="8389342" symbol="hours"/>
+        <entry field="true" id="39" symbol="MainObjectiveDateTitle"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry field="true" id="51" symbol="Yellow"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="57" symbol="inLowPower"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry field="true" id="49" symbol="Red"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry id="65" method="true" symbol="drawHeart"/>
+        <entry id="14" method="true" symbol="WidthofCircle"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="21" symbol="AppName"/>
+        <entry id="72" method="true" symbol="GetHeartRate"/>
+        <entry field="true" id="8389343" symbol="minutes"/>
+        <entry field="true" id="59" symbol="weekdays"/>
+        <entry field="true" id="43" symbol="ManualLongError"/>
+        <entry id="8388641" module="true" symbol="Math"/>
+        <entry field="true" id="17" symbol="LauncherIcon"/>
+        <entry id="71" method="true" symbol="drawSunEvents"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="63" method="true" symbol="drawLowPowerMode"/>
+        <entry id="11" object="true" symbol="WHatch4MeApp"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="62" symbol="watchWidth"/>
+        <entry id="70" method="true" symbol="drawSteps"/>
+        <entry field="true" id="55" symbol="Mon11"/>
+        <entry field="true" id="54" symbol="Mon10"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="53" symbol="OverRideStreakorNot"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="61" symbol="watchHeight"/>
+        <entry field="true" id="8389743" symbol="backgroundColor"/>
+        <entry field="true" id="18" symbol="BackgroundColorTitle"/>
+        <entry field="true" id="29" symbol="MainObjectiveNameTitleError"/>
+        <entry id="13" method="true" symbol="getSunTimes"/>
+        <entry id="8389702" method="true" symbol="getHeartRateHistory"/>
+        <entry field="true" id="40" symbol="Blue"/>
+        <entry field="true" id="48" symbol="BackgroundColorPrompt"/>
+        <entry field="true" id="52" symbol="DateFormat"/>
+        <entry field="true" id="31" symbol="Day6"/>
+        <entry field="true" id="28" symbol="Day5"/>
+        <entry field="true" id="27" symbol="Day4"/>
+        <entry field="true" id="26" symbol="Day3"/>
+        <entry field="true" id="25" symbol="Day2"/>
+        <entry field="true" id="24" symbol="Day1"/>
+        <entry field="true" id="23" symbol="Day0"/>
+        <entry id="15" module="true" symbol="Layouts"/>
+        <entry id="67" method="true" symbol="drawClock"/>
+        <entry id="64" method="true" symbol="drawDaysToSince"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry field="true" id="58" symbol="months"/>
+        <entry field="true" id="32" symbol="lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="16" module="true" symbol="Menus"/>
+        <entry id="8391115" method="true" symbol="getCurrentTime"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="66" method="true" symbol="drawBluetooth"/>
+        <entry field="true" id="8389742" symbol="foregroundColor"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268436536" name="colorNum" stackId="1" startPc="268435460"/>
+        <entry endPc="268436580" name="dc" stackId="1" startPc="268436537"/>
+        <entry endPc="268436828" name="dc" stackId="1" startPc="268436585"/>
+        <entry endPc="268437281" name="b" stackId="6" startPc="268436903"/>
+        <entry endPc="268437281" name="a" stackId="5" startPc="268436903"/>
+        <entry endPc="268437281" name="timeHeight" stackId="3" startPc="268436903"/>
+        <entry endPc="268437281" name="timeString" stackId="4" startPc="268436903"/>
+        <entry endPc="268437281" name="time" stackId="2" startPc="268436903"/>
+        <entry endPc="268437281" name="c" stackId="7" startPc="268436903"/>
+        <entry endPc="268437282" name="dc" stackId="1" startPc="268436899"/>
+        <entry endPc="268437724" name="pluraldays" stackId="7" startPc="268437286"/>
+        <entry endPc="268437724" name="daysToSince" stackId="6" startPc="268437286"/>
+        <entry endPc="268437724" name="todayM" stackId="2" startPc="268437286"/>
+        <entry endPc="268437724" name="todayMcalc" stackId="4" startPc="268437286"/>
+        <entry endPc="268437724" name="eventM" stackId="3" startPc="268437286"/>
+        <entry endPc="268437724" name="eventMcalc" stackId="5" startPc="268437286"/>
+        <entry endPc="268437725" name="dc" stackId="1" startPc="268437282"/>
+        <entry endPc="268437899" name="HRS" stackId="6" startPc="268437815"/>
+        <entry endPc="268437899" name="HRH" stackId="5" startPc="268437815"/>
+        <entry endPc="268438518" name="x" stackId="8" startPc="268437909"/>
+        <entry endPc="268438518" name="HrWidth" stackId="10" startPc="268437909"/>
+        <entry endPc="268438518" name="heartsize" stackId="7" startPc="268437909"/>
+        <entry endPc="268438518" name="HrHeight" stackId="11" startPc="268437909"/>
+        <entry endPc="268438518" name="y" stackId="9" startPc="268437909"/>
+        <entry endPc="268438521" name="heartRate" stackId="4" startPc="268437783"/>
+        <entry endPc="268438524" name="HRsupport" stackId="2" startPc="268437729"/>
+        <entry endPc="268438524" name="am" stackId="3" startPc="268437729"/>
+        <entry endPc="268438525" name="dc" stackId="1" startPc="268437725"/>
+        <entry endPc="268438530" name="dc" stackId="1" startPc="268438525"/>
+        <entry endPc="268438748" name="timeY" stackId="4" startPc="268438534"/>
+        <entry endPc="268438748" name="timeString" stackId="3" startPc="268438534"/>
+        <entry endPc="268438748" name="time" stackId="2" startPc="268438534"/>
+        <entry endPc="268438749" name="dc" stackId="1" startPc="268438530"/>
+        <entry endPc="268439581" name="battery" stackId="3" startPc="268438753"/>
+        <entry endPc="268439581" name="batteryTextWidth" stackId="6" startPc="268438753"/>
+        <entry endPc="268439581" name="batteryTextHeight" stackId="5" startPc="268438753"/>
+        <entry endPc="268439581" name="batteryY" stackId="7" startPc="268438753"/>
+        <entry endPc="268439581" name="batteryX" stackId="8" startPc="268438753"/>
+        <entry endPc="268439581" name="batteryBarLength" stackId="4" startPc="268438753"/>
+        <entry endPc="268439581" name="systemStats" stackId="2" startPc="268438753"/>
+        <entry endPc="268439582" name="dc" stackId="1" startPc="268438749"/>
+        <entry endPc="268440179" name="BTSize" stackId="10" startPc="268439586"/>
+        <entry endPc="268440179" name="dateY" stackId="7" startPc="268439586"/>
+        <entry endPc="268440179" name="date" stackId="5" startPc="268439586"/>
+        <entry endPc="268440179" name="settings" stackId="11" startPc="268439586"/>
+        <entry endPc="268440179" name="weekday" stackId="3" startPc="268439586"/>
+        <entry endPc="268440179" name="dateinfo" stackId="2" startPc="268439586"/>
+        <entry endPc="268440179" name="month" stackId="4" startPc="268439586"/>
+        <entry endPc="268440179" name="dateText" stackId="6" startPc="268439586"/>
+        <entry endPc="268440179" name="BTy" stackId="9" startPc="268439586"/>
+        <entry endPc="268440179" name="BTx" stackId="8" startPc="268439586"/>
+        <entry endPc="268440180" name="dc" stackId="1" startPc="268439582"/>
+        <entry endPc="268440514" name="i" stackId="12" startPc="268440306"/>
+        <entry endPc="268440880" name="OverRideStreakMoment" stackId="18" startPc="268440676"/>
+        <entry endPc="268440965" name="DBSSSince" stackId="19" startPc="268440901"/>
+        <entry endPc="268441049" name="DBSSMoment" stackId="20" startPc="268440968"/>
+        <entry endPc="268441148" name="DBSSMoment" stackId="21" startPc="268441052"/>
+        <entry endPc="268442054" name="i" stackId="28" startPc="268441497"/>
+        <entry endPc="268443898" name="avgwidth" stackId="32" startPc="268440184"/>
+        <entry endPc="268443898" name="DBSS" stackId="11" startPc="268440184"/>
+        <entry endPc="268443898" name="todaygoal" stackId="9" startPc="268440184"/>
+        <entry endPc="268443898" name="hist" stackId="2" startPc="268440184"/>
+        <entry endPc="268443898" name="actinfo" stackId="7" startPc="268440184"/>
+        <entry endPc="268443898" name="DisplayStreak" stackId="15" startPc="268440184"/>
+        <entry endPc="268443898" name="barwidth" stackId="24" startPc="268440184"/>
+        <entry endPc="268443898" name="DBSSfromMemory" stackId="16" startPc="268440184"/>
+        <entry endPc="268443898" name="bargap" stackId="25" startPc="268440184"/>
+        <entry endPc="268443898" name="maxavgstepsY" stackId="30" startPc="268440184"/>
+        <entry endPc="268443898" name="barspace" stackId="26" startPc="268440184"/>
+        <entry endPc="268443898" name="daystocount" stackId="6" startPc="268440184"/>
+        <entry endPc="268443898" name="DBSSMoment" stackId="17" startPc="268440184"/>
+        <entry endPc="268443898" name="maxwidth" stackId="31" startPc="268440184"/>
+        <entry endPc="268443898" name="oneDay" stackId="14" startPc="268440184"/>
+        <entry endPc="268443898" name="rightedge" stackId="27" startPc="268440184"/>
+        <entry endPc="268443898" name="maxStepsorGoals" stackId="3" startPc="268440184"/>
+        <entry endPc="268443898" name="bottomline" stackId="22" startPc="268440184"/>
+        <entry endPc="268443898" name="totsteps" stackId="5" startPc="268440184"/>
+        <entry endPc="268443898" name="maxbarheight" stackId="23" startPc="268440184"/>
+        <entry endPc="268443898" name="averagesteps" stackId="10" startPc="268440184"/>
+        <entry endPc="268443898" name="averagestepstxt" stackId="29" startPc="268440184"/>
+        <entry endPc="268443898" name="today" stackId="13" startPc="268440184"/>
+        <entry endPc="268443898" name="maxactsteps" stackId="4" startPc="268440184"/>
+        <entry endPc="268443898" name="todaysofar" stackId="8" startPc="268440184"/>
+        <entry endPc="268443899" name="dc" stackId="1" startPc="268440180"/>
+        <entry endPc="268444738" name="sunText" stackId="3" startPc="268443903"/>
+        <entry endPc="268444738" name="SunTimes0H" stackId="9" startPc="268443903"/>
+        <entry endPc="268444738" name="now" stackId="8" startPc="268443903"/>
+        <entry endPc="268444738" name="SunTimes0pad" stackId="13" startPc="268443903"/>
+        <entry endPc="268444738" name="locationLat" stackId="6" startPc="268443903"/>
+        <entry endPc="268444738" name="locationLng" stackId="7" startPc="268443903"/>
+        <entry endPc="268444738" name="sunsetwidth" stackId="15" startPc="268443903"/>
+        <entry endPc="268444738" name="sunTimes" stackId="2" startPc="268443903"/>
+        <entry endPc="268444738" name="SunTimes1M" stackId="12" startPc="268443903"/>
+        <entry endPc="268444738" name="SunTimes1H" stackId="11" startPc="268443903"/>
+        <entry endPc="268444738" name="SunTimes0M" stackId="10" startPc="268443903"/>
+        <entry endPc="268444738" name="gLocationLat" stackId="4" startPc="268443903"/>
+        <entry endPc="268444738" name="gLocationLng" stackId="5" startPc="268443903"/>
+        <entry endPc="268444738" name="SunTimes1pad" stackId="14" startPc="268443903"/>
+        <entry endPc="268444739" name="dc" stackId="1" startPc="268443899"/>
+        <entry endPc="268444883" name="hrI" stackId="4" startPc="268444796"/>
+        <entry endPc="268444883" name="hrs" stackId="5" startPc="268444796"/>
+        <entry endPc="268444886" name="ret" stackId="2" startPc="268444743"/>
+        <entry endPc="268444886" name="hr" stackId="3" startPc="268444743"/>
+        <entry endPc="268444887" name="dc" stackId="1" startPc="268444739"/>
+        <entry endPc="268444915" name="state" stackId="1" startPc="268444910"/>
+        <entry endPc="268444920" name="state" stackId="1" startPc="268444915"/>
+        <entry endPc="268445118" name="hours" stackId="2" startPc="268444966"/>
+        <entry endPc="268445118" name="clockTime" stackId="1" startPc="268444966"/>
+        <entry endPc="268445118" name="time" stackId="3" startPc="268444966"/>
+        <entry endPc="268446302" name="now" stackId="5" startPc="268445137"/>
+        <entry endPc="268446302" name="jTransit" stackId="22" startPc="268445137"/>
+        <entry endPc="268446302" name="tzOffset" stackId="30" startPc="268445137"/>
+        <entry endPc="268446302" name="MFloor" stackId="16" startPc="268445137"/>
+        <entry endPc="268446302" name="M" stackId="15" startPc="268445137"/>
+        <entry endPc="268446302" name="y" stackId="10" startPc="268445137"/>
+        <entry endPc="268446302" name="deltaJSet" stackId="28" startPc="268445137"/>
+        <entry endPc="268446302" name="lambda" stackId="19" startPc="268445137"/>
+        <entry endPc="268446302" name="deg" stackId="8" startPc="268445137"/>
+        <entry endPc="268446302" name="jStar" stackId="14" startPc="268445137"/>
+        <entry endPc="268446302" name="jDate" stackId="12" startPc="268445137"/>
+        <entry endPc="268446302" name="C" stackId="18" startPc="268445137"/>
+        <entry endPc="268446302" name="omega" stackId="25" startPc="268445137"/>
+        <entry endPc="268446302" name="jSet" stackId="26" startPc="268445137"/>
+        <entry endPc="268446302" name="n" stackId="13" startPc="268445137"/>
+        <entry endPc="268446302" name="m" stackId="11" startPc="268445137"/>
+        <entry endPc="268446302" name="jRise" stackId="27" startPc="268445137"/>
+        <entry endPc="268446302" name="lambdaFloor" stackId="20" startPc="268445137"/>
+        <entry endPc="268446302" name="deltaJRise" stackId="29" startPc="268445137"/>
+        <entry endPc="268446302" name="cosOmega" stackId="24" startPc="268445137"/>
+        <entry endPc="268446302" name="d" stackId="6" startPc="268445137"/>
+        <entry endPc="268446302" name="delta" stackId="23" startPc="268445137"/>
+        <entry endPc="268446302" name="MFrac" stackId="17" startPc="268445137"/>
+        <entry endPc="268446302" name="a" stackId="9" startPc="268445137"/>
+        <entry endPc="268446302" name="lambdaFrac" stackId="21" startPc="268445137"/>
+        <entry endPc="268446302" name="rad" stackId="7" startPc="268445137"/>
+        <entry endPc="268446303" name="tomorrow" stackId="4" startPc="268445125"/>
+        <entry endPc="268446303" name="lng" stackId="2" startPc="268445125"/>
+        <entry endPc="268446303" name="lat" stackId="1" startPc="268445125"/>
+        <entry endPc="268446303" name="tz" stackId="3" startPc="268445125"/>
+        <entry endPc="268446364" name="FromTop" stackId="2" startPc="268446303"/>
+        <entry endPc="268446364" name="Radius" stackId="1" startPc="268446303"/>
+    </localVars>
+    <annotations/>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="95" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="190" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="269" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="308" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="339" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="370" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="401" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="432" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="775" parentId="globals" symbolId="Time" type="class"/>
+        <dataEntry offset="838" parentId="globals" symbolId="Util" type="class"/>
+        <dataEntry offset="924" parentId="globals" symbolId="WHatch4MeView" type="class"/>
+        <dataEntry offset="1171" parentId="globals" symbolId="WHatch4MeApp" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="WHatch4MeView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="WHatch4MeView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="WHatch4MeView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="WHatch4MeView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="WHatch4MeView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onExitSleep" parent="WHatch4MeView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onEnterSleep" parent="WHatch4MeView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawLowPowerMode" parent="WHatch4MeView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawDaysToSince" parent="WHatch4MeView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawHeart" parent="WHatch4MeView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawBluetooth" parent="WHatch4MeView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawClock" parent="WHatch4MeView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawBattery" parent="WHatch4MeView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawDate" parent="WHatch4MeView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawSteps" parent="WHatch4MeView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="drawSunEvents" parent="WHatch4MeView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="GetHeartRate" parent="WHatch4MeView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="WHatch4MeApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="WHatch4MeApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="WHatch4MeApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="WHatch4MeApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getCurrentTime" parent="Util">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getSunTimes">
+            <param id="lat"/>
+            <param id="lng"/>
+            <param id="tz"/>
+            <param id="tomorrow"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="WidthofCircle">
+            <param id="Radius"/>
+            <param id="FromTop"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>

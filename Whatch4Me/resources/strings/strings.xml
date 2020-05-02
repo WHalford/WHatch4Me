@@ -1,0 +1,40 @@
+<strings>
+    <string id="AppName">WHatch4Me</string>
+    <string id="lang">en</string>
+    <string id="DateFormat">$1$ $2$ $3$</string>
+    <string id="Day0">Sun</string>
+    <string id="Day1">Mon</string>
+    <string id="Day2">Tue</string>
+    <string id="Day3">Wed</string>
+    <string id="Day4">Thu</string>
+    <string id="Day5">Fri</string>
+    <string id="Day6">Sat</string>
+    <string id="Mon0">Jan</string>
+    <string id="Mon1">Feb</string>
+    <string id="Mon2">Mar</string>
+    <string id="Mon3">Apr</string>
+    <string id="Mon4">May</string>
+    <string id="Mon5">Jun</string>
+    <string id="Mon6">Jul</string>
+    <string id="Mon7">Aug</string>
+    <string id="Mon8">Sep</string>
+    <string id="Mon9">Oct</string>
+    <string id="Mon10">Nov</string>
+    <string id="Mon11">Dec</string>
+    <string id="BackgroundColorTitle">Background color</string>
+    <string id="BackgroundColorPrompt">Select background color</string>
+    <string id="Black">Black</string>
+    <string id="White">White</string>
+    <string id="Blue">Blue</string>
+    <string id="Green">Green</string>
+    <string id="Red">Red</string>
+    <string id="Yellow">Yellow</string>
+    <string id="MainObjectiveDateTitle">Date - countdown to (or up from) a date</string>
+    <string id="MainObjectiveNameTitleError">Enter a Date</string>
+    <string id="ManualLat">Latitude:</string>
+    <string id="ManualLatError">+ve North -ve South max +-90</string><string id="ManualLong">Longitude </string>
+    <string id="ManualLongError">- +ve East -ve West max 180</string>
+    <string id="DisplayToSinceDate">Display Date (To/Since) or not</string>
+    <string id="OverRideStreakDate">Enter start date of step streak</string>
+    <string id="OverRideStreakorNot">Choose whether to attempt to override streak</string>
+</strings>

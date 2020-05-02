@@ -1,0 +1,10 @@
+<properties>
+    <property id="ManualLong" type="Float">144.96 </property>
+
+	<property id="ManualLat" type="Float">-37.81 </property>
+	<property id="MainObjective-Date" type="number">1586356833</property>
+	<property id="DisplayToSinceDate" type="boolean"></property>
+	<property id="OverRideStreakDate" type="number">1587513600</property>
+	<property id="OverRideStreakorNot" type="boolean"></property>
+
+</properties>

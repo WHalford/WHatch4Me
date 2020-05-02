@@ -1,0 +1,21 @@
+<settings>
+    <setting propertyKey="@Properties.ManualLat" title="@Strings.ManualLat">
+    	<settingConfig type="Numeric" errorMessage="@Strings.ManualLatError"></settingConfig></setting>
+    <setting propertyKey="@Properties.ManualLong" title="@Strings.ManualLong">
+        <settingConfig type="Numeric" errorMessage="@Strings.ManualLongError"/>
+    </setting>
+        <setting propertyKey="@Properties.DisplayToSinceDate" title="@Strings.DisplayToSinceDate">
+    	<settingConfig type="boolean"></settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.MainObjective-Date" title="@Strings.MainObjectiveDateTitle">
+        <settingConfig type="date" />
+    </setting>
+    <setting propertyKey="@Properties.OverRideStreakorNot" title="@Strings.OverRideStreakorNot">
+    	<settingConfig type="boolean"></settingConfig>
+    </setting>
+    <setting propertyKey="@Properties.OverRideStreakDate" title="@Strings.OverRideStreakDate">
+    	<settingConfig type="date"></settingConfig>
+    </setting>
+ 
+
+</settings>

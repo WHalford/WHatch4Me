@@ -1,0 +1,45 @@
+
+
+Inspiration and code fragments taken with thanks from the following:
+
+ClearSteps
+	Used this as the starting point - a simple watch structure and date display
+	
+Sleep display on Venu
+	Crystal 
+	
+	
+Passing Parameters from Settings and Date handling:
+	Objectives Widget by zRenard
+	 https://github.com/zRenard/ObjectivesWidget
+
+GetSunTimes :
+	With thanks to ruiokada. Adapted, then translated to Monkey C, from:
+	https://gist.github.com/ruiokada/b28076d4911820ddcbbc
+
+-------------------------------------------------
+WHatch4Me
+by WHalford 
+
+Copyright 2020 
+Github :  once Published
+ConnectIQ :  once Published 
+
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
